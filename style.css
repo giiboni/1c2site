@@ -1,11 +1,11 @@
 header{
     background-color: rgb(132, 170, 204);
-    padding: 20px 0;/* espaço em cima do cabeçalho - espaçamento interno*/
+    padding: 20px 0;
 }
 
 .caixa{
-    position: relative;/*menu dento da caixa*/
-    width: 940px;/*largura da caixa*/
+    position: relative;
+    width: 940px;
     margin: 0 auto;
     
 }
@@ -18,15 +18,15 @@ nav{
 }
 nav li{
     display: inline;
-    margin: 0 0 0 15px;/*espaçamento externo*/
+    margin: 0 0 0 15px;
 }
 
 nav a{
-    text-transform: uppercase; /* letras maiúsculas*/
-    color: #000000; /* cor das letras pretas*/
-    font-weight: bold; /* fonte negrito*/
-    font-size: 22px; /*tamanho da fonte*/
-    text-decoration: none;/* retirar o sublinhado do texto*/
+    text-transform: uppercase; 
+    color: #383030;
+    font-weight: bold; 
+    font-size: 22px; 
+    text-decoration: none;
 }
 
 h1 {
