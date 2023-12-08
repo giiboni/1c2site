@@ -63,7 +63,7 @@ nav a:hover {
 
 /* alterar a cor da borda dos produtos quando passar o cursor do mouse*/
 .produtos li:hover {
-	border-color:#c71919; /*cor das 4 bordas*/
+	border-color:#193cc7; /*cor das 4 bordas*/
 }
 
 /*comportamento ativo para mudar a cor da borda*/
