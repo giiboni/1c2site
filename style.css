@@ -1,5 +1,5 @@
 header {
-	background: #e3e4de;/*cor de fundo*/
+	background: #03dbc2;/*cor de fundo*/
 	padding: 20px 0;/*espaço em torno de um elemento*/
 }
 
@@ -10,7 +10,7 @@ header {
 }
 
 main {
-	background: #f0dede;
+	background: #04c93c;
 }
 
 nav {
@@ -34,7 +34,7 @@ nav a {
 
 /*passando o mouse sobre o elemento(pseudo-classes)*/
 nav a:hover { 
-	color:#a108bc;  /* colocando a cor*/
+	color:#08bcb9;  /* colocando a cor*/
 	text-decoration: underline; /*texto sublinhado quando o mouse estiver posicionado*/
 }
 
