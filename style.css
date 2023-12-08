@@ -34,7 +34,7 @@ nav a {
 
 /*passando o mouse sobre o elemento(pseudo-classes)*/
 nav a:hover { 
-	color:#08bcb9;  /* colocando a cor*/
+	color:#18aeace4;  /* colocando a cor*/
 	text-decoration: underline; /*texto sublinhado quando o mouse estiver posicionado*/
 }
 
