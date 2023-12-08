@@ -57,7 +57,7 @@ nav a:hover {
 	border-color:#000000 ;  cor da borda
 	border-width: 2px ;     tamanho da borda,largura
 	border-style: solid ;   borda sólida*/
-	border: 2px solid #000000;/*largura estilo e cor de todas as 4 bordas*/
+	border: 2px solid #6223d8;/*largura estilo e cor de todas as 4 bordas*/
 	border-radius: 10px;/*bordas aredondads*/
 }	
 
