@@ -74,7 +74,7 @@ nav a:hover {
 /*alterar a fonte e cor do titulo do produto quando passar o cursor do mouse*/
 .produtos li:hover h2{
 	font-size: 40px; /*tamanho da fonte*/
-	color: #a108bc; /* cor*/
+	color: #08bca7; /* cor*/
 }
 
 .produtos h2 {
